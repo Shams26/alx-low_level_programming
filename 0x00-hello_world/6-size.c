@@ -3,10 +3,10 @@
 /**
  * main - A program that prints the size of various type of computer it is compiled and run on
  * Return: 0 (success)
- */
+*/
 int main(void)
 {
-        char a;
+	char a;
 	int b;
 	long int c;
 	long long int d;
