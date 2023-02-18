@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 /**
  * main - main block
  * Description: print the alphabett in lower case
@@ -10,17 +9,17 @@ int main(void)
 {
 char c = 'a';
 
+char d = 'A';
+
 while (c <= 'z')
 {
 	putchar(c);
 	c++;
 }
-c = "A";
-
-while (c <= 'Z')
+while (d <= 'Z')
 {
-	putchar(c);
-	c++;
+	putchar(d);
+	d++;
 }
 putchar('\n');
 return (0);
