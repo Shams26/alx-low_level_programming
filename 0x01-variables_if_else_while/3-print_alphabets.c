@@ -1,9 +1,9 @@
 #include <stdio.h>
+#include <stdlib.h>
 /**
  * main - main block
- * Description: print the alphabett in lower case
- * and the in uppercase, follow by a new line
- * Return: o
+ * Description: print the alphabett in lower case and the in uppercase, follow by a new line
+ * Return: 0
  */
 int main(void)
 {
@@ -19,7 +19,7 @@ c = "A";
 while (c <= 'Z')
 {
 	putchar(c);
-	c++
+	c++;
 }
 putchar('\n');
 return (0);
