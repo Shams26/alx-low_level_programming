@@ -16,7 +16,7 @@ while (c <= 'z')
 }
 c = "A";
 
-while (c <= 'z')
+while (c <= 'Z')
 {
 	putchar(c);
 	c++
