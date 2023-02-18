@@ -3,8 +3,7 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: print all single digit numbers of base 10
- * starting from 0, followed by a new line
+ * Description: prints all single digit number of base 10
  * Return: 0
  */
 int main(void)
@@ -14,7 +13,7 @@ int main(void)
 	while (c <= '9')
 	{
 		putchar(c);
-		c++
+		c++;
 	}
 
 	putchar('\n');
