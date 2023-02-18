@@ -2,7 +2,8 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: print the alphabett in lower case and the in uppercase, follow by a new line
+ * Description: print the alphabett in lower case
+ * and the in uppercase, follow by a new line
  * Return: 0
  */
 int main(void)
