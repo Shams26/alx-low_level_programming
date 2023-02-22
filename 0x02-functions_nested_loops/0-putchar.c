@@ -1,8 +1,8 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * main - writes "_putchar" using putchar
- * With the use of embah
+ * written by embah
  * Return: 0
  */
 
