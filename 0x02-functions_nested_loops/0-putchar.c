@@ -2,6 +2,7 @@
 
 /**
  * main - writes "_putchar" using putchar
+ * With the use of embah
  * Return: 0
  */
 
